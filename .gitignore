@@ -1,0 +1,42 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+
+# Windows
+windows/flutter/
+windows/CMakeFiles/
+windows/runner/Debug/
+windows/runner/Release/
+windows/runner/Profile/
+windows/x64/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+*.env
+*.pem
+
+# Logs
+*.log
+
+# Dart generated files
+*.g.dart
+*.freezed.dart
